@@ -13,8 +13,8 @@
 
 // #define WIFI_SSID             "YOUR-SSID"
 // #define WIFI_PASSWORD         "YOUR-PSW"
-#define WIFI_SSID             "xinyuandianzi"
-#define WIFI_PASSWORD         "AA15994823428"
+#define WIFI_SSID             "JioDongle_382798"
+#define WIFI_PASSWORD         "kimnp2qzgy"
 
 #define WIFI_CONNECT_WAIT_MAX (30 * 1000)
 

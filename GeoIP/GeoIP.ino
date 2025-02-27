@@ -17,8 +17,8 @@ DynamicJsonDocument doc2(1048);
 TFT_eSPI tft = TFT_eSPI();
 TFT_eSprite sprite = TFT_eSprite(&tft);
 
-const char* ssid     = "xxxxx";
-const char* password = "xxxxx";
+const char* ssid     = "JioDongle_382798";
+const char* password = "kimnp2qzgy";
 
 int httpCode=0;
 int httpCode2=0;
